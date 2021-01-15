@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adlist-app/static/css/main.0bf085fa.chunk.css",
+    "main.js": "/adlist-app/static/js/main.158ece8f.chunk.js",
+    "main.js.map": "/adlist-app/static/js/main.158ece8f.chunk.js.map",
+    "runtime-main.js": "/adlist-app/static/js/runtime-main.8fe16c7b.js",
+    "runtime-main.js.map": "/adlist-app/static/js/runtime-main.8fe16c7b.js.map",
+    "static/js/2.ead12ff1.chunk.js": "/adlist-app/static/js/2.ead12ff1.chunk.js",
+    "static/js/2.ead12ff1.chunk.js.map": "/adlist-app/static/js/2.ead12ff1.chunk.js.map",
+    "static/js/3.2d5474e4.chunk.js": "/adlist-app/static/js/3.2d5474e4.chunk.js",
+    "static/js/3.2d5474e4.chunk.js.map": "/adlist-app/static/js/3.2d5474e4.chunk.js.map",
+    "index.html": "/adlist-app/index.html",
+    "static/css/main.0bf085fa.chunk.css.map": "/adlist-app/static/css/main.0bf085fa.chunk.css.map",
+    "static/js/2.ead12ff1.chunk.js.LICENSE.txt": "/adlist-app/static/js/2.ead12ff1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fe16c7b.js",
+    "static/js/2.ead12ff1.chunk.js",
+    "static/css/main.0bf085fa.chunk.css",
+    "static/js/main.158ece8f.chunk.js"
+  ]
+}
